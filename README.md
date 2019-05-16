@@ -1,1 +1,3 @@
-# Face_Recognition
+# Face_Recognition_System
+
+The footage of the CCTV can be used to identify suspects on scene. However, there are limited software developed to automatically detect the similarity between photo in the footage and recorded photo of criminals with better efficiency. In this project, i would be implementing an automated facial recognition system for criminal database using known Principal Component Analysis approach. This system will be able to detect face and recognize face automatically. This will help the law enforcement to detect or recognize suspect of the case if no thumbprint or any other evidence was present on the scene.
